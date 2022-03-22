@@ -4,12 +4,12 @@ The Discovery Environment for Relational Information and Versioned Assets (DERIV
 
 The following technologies developed at the Informatics Systems Research division of ISI/USC form the ecosystem that supports DERIVA's features:
 
-* Multi-tenant relational data service for domain models (ERMrest) with a client library (ERMrest JS) and python modules (which include DERIVA PY and DERIVA QT),
-* Object storage service for assets (HATRAC),
-* Suite of adaptive user interface applications (CHAISE),
-* Suite of utilities for ingest and export of assets and metadata (IObox),
-* Asset aggregation package format (BDBag), and
-* Shared authentication layer (WebAuthN)
+* Multi-tenant relational data service for domain models ([ERMrest](https://github.com/informatics-isi-edu/ermrest)) with a client library ([ERMrest JS](https://github.com/informatics-isi-edu/ermrestjs)) and python modules (which include [DERIVA PY](https://github.com/informatics-isi-edu/deriva-py) and [DERIVA QT](https://github.com/informatics-isi-edu/deriva-qt)),
+* Object storage service for assets ([HATRAC](https://github.com/informatics-isi-edu/hatrac)),
+* Suite of adaptive user interface applications ([CHAISE](https://github.com/informatics-isi-edu/chaise)),
+* Suite of utilities for ingest and export of assets and metadata ([IObox](https://github.com/informatics-isi-edu/iobox)),
+* Asset aggregation package format ([BDBag](https://github.com/ini-bdds/bdbag)), and
+* Shared authentication layer ([WebAuthN](https://github.com/informatics-isi-edu/webauthn))
 
 **ERMrest**: (rhymes with "earn rest") General relational data storage service for web-based, data-oriented collaboration. It allows general entity-relationship modeling of data resources manipulated by RESTful access methods. A client library - ERMrest JS - is also available.
 Git Repo: [https://github.com/informatics-isi-edu/ermrest](https://github.com/informatics-isi-edu/ermrest)
