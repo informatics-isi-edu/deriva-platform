@@ -1,4 +1,5 @@
-# deriva-platform
+# DERIVA Platform
+
 The Discovery Environment for Relational Information and Versioned Assets (DERIVA) platform is an asset management system designed to support scientific collaboration through the full lifecycle of data - from early experiment design, to data acquisition, analyses and ultimately publication.
 
 The following technologies developed at the Informatics Systems Research division of ISI/USC form the ecosystem that supports DERIVA's features:
