@@ -2,7 +2,7 @@
 
 The Discovery Environment for Relational Information and Versioned Assets (DERIVA) platform is an asset management system designed to support scientific collaboration through the full lifecycle of data - from early experiment design, to data acquisition, analyses and ultimately publication.
 
-The following technologies developed at the Informatics Systems Research division of ISI/USC form the ecosystem that supports DERIVA's features:
+The following technologies developed at the Informatics Systems Research division of ISI/USC form the ecosystem that supports DERIVA's features. You can find documentation for these components at [https://docs.derivacloud.org/](https://docs.derivacloud.org/):
 
 * Multi-tenant relational data service for domain models ([ERMrest](https://github.com/informatics-isi-edu/ermrest)) with a client library ([ERMrest JS](https://github.com/informatics-isi-edu/ermrestjs)) and python modules (which include [DERIVA PY](https://github.com/informatics-isi-edu/deriva-py) and [DERIVA QT](https://github.com/informatics-isi-edu/deriva-qt)),
 * Object storage service for assets ([HATRAC](https://github.com/informatics-isi-edu/hatrac)),
