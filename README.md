@@ -39,3 +39,11 @@ Git Repo: [https://github.com/ini-bdds/bdbag](https://github.com/ini-bdds/bdbag)
 Git Repo: [https://github.com/informatics-isi-edu/webauthn](https://github.com/informatics-isi-edu/webauthn)
 
 *DERIVA has been funded by the National Institute of Health (NIH) via grants 5U24DK110814, 1U01DK107350, 5U01DE024449, 5R01MH107238, 5U54EB020406, P41-EB015922 and the GPCR Consortium.*
+
+# DERIVA Client Tools and Libraries
+**deriva-client-bundle**: pre-package bundles for download/uploading data. 
+Git Repo: [https://github.com/informatics-isi-edu/deriva-client-bundle](https://github.com/informatics-isi-edu/deriva-client-bundle/tree/v1.6.0)
+
+**deriva-client**: python modules and tools for interacting with Deriva services.
+Git Repo: [https://github.com/informatics-isi-edu/deriva-client](https://github.com/informatics-isi-edu/deriva-client)
+
